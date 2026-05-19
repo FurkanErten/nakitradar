@@ -1,0 +1,6 @@
+id,date,description,amount,type,category
+T-001,2026-05-17,Pazaryeri hakedişi,96000,income,Hakediş
+T-002,2026-05-25,B2B sipariş tahsilatı,38000,income,B2B
+T-003,2026-05-19,Maaş,42000,expense,Maaş
+T-004,2026-05-24,Kira,24000,expense,Kira
+T-005,2026-05-28,Tedarikçi ödemesi,36000,expense,Tedarikçi

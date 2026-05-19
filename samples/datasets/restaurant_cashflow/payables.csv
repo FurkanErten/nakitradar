@@ -1,0 +1,3 @@
+id,vendor_name,amount,due_date,category,is_fixed
+P-001,Et tedarikçisi,23500,2026-05-19,Tedarikçi,False
+P-002,Elektrik / doğalgaz,16400,2026-05-25,Fatura,True

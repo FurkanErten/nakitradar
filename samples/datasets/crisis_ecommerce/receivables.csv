@@ -1,0 +1,4 @@
+id,customer_name,amount,due_date,probability,status
+R-001,Kurumsal Müşteri A,24000,2026-05-04,0.75,unpaid
+R-002,Bayi Kuzey,18500,2026-05-11,0.65,unpaid
+R-003,Instagram toplu sipariş,9200,2026-05-19,0.8,unpaid

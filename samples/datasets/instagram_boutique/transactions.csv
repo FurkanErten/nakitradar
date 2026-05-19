@@ -1,0 +1,5 @@
+id,date,description,amount,type,category
+T-001,2026-05-19,Shopier / ödeme altyapısı aktarımı,38500,income,Satış
+T-002,2026-05-24,Instagram reklam ödemesi,15200,expense,Reklam
+T-003,2026-05-20,Kargo faturası,11800,expense,Kargo
+T-004,2026-05-22,Atölye ödemesi,35500,expense,Tedarikçi

@@ -1,0 +1,4 @@
+sku,name,category,unit_cost,sale_price,stock_count,monthly_sales_velocity,min_stock_count,vat_rate,storage_cost_per_unit_day
+HG-001,Premium Kahve Seti,Gıda,210,479,42,96,30,0.1,0.01
+HG-002,Organik Granola,Gıda,74,169,80,130,40,0.1,0.008
+HG-003,Çelik Matara,Outdoor,160,369,35,61,20,0.2,0.015

@@ -1,0 +1,2 @@
+id,customer_name,amount,due_date,probability,status
+R-001,Kurumsal yemek anlaşması,28000,2026-05-12,0.85,unpaid

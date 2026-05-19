@@ -1,0 +1,5 @@
+sku,name,category,unit_cost,sale_price,stock_count,monthly_sales_velocity,min_stock_count,vat_rate,storage_cost_per_unit_day
+IB-001,Oversize Tişört,Tekstil,145,299,160,52,30,0.2,0.015
+IB-002,Keten Gömlek,Tekstil,260,489,95,34,25,0.2,0.018
+IB-003,Minimal Çanta,Aksesuar,210,399,70,18,15,0.2,0.02
+IB-004,Premium Hoodie,Tekstil,340,749,24,41,12,0.2,0.02

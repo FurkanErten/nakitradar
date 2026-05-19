@@ -1,0 +1,9 @@
+id,date,description,amount,type,category
+T-001,2026-05-16,Mağaza günlük satış,12000,income,Satış
+T-002,2026-05-17,Mağaza günlük satış,9000,income,Satış
+T-003,2026-05-18,Mağaza günlük satış,11000,income,Satış
+T-004,2026-05-21,Instagram satış tahmini,7000,income,Satış
+T-005,2026-05-23,Web sitesi satış tahmini,8500,income,Satış
+T-006,2026-05-29,Pazaryeri hakediş tahmini,40500,income,Pazaryeri
+T-007,2026-05-18,Reklam harcaması,5500,expense,Reklam
+T-008,2026-05-24,Elektrik ve internet faturası,6800,expense,Fatura

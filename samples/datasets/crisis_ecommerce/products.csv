@@ -1,0 +1,6 @@
+sku,name,category,unit_cost,sale_price,stock_count,monthly_sales_velocity,min_stock_count,vat_rate,storage_cost_per_unit_day
+SP-001,Bluetooth Kulaklık,Elektronik,315,499,84,62,20,0.2,0.02
+SP-002,Spor Çanta,Aksesuar,286,399,136,38,15,0.2,0.03
+SP-003,Akıllı Termos,Ev & Yaşam,268,389,210,28,30,0.2,0.025
+SP-004,Telefon Standı,Aksesuar,72,179,55,91,30,0.2,0.01
+SP-005,Kablosuz Mouse,Elektronik,188,329,48,74,25,0.2,0.02

@@ -1,0 +1,3 @@
+id,vendor_name,amount,due_date,category,is_fixed
+P-001,Kumaş tedarikçisi,24500,2026-05-18,Tedarikçi,False
+P-002,Fotoğraf çekim ajansı,9500,2026-05-27,Pazarlama,False

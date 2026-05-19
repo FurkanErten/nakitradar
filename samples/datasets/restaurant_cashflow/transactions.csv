@@ -1,0 +1,7 @@
+id,date,description,amount,type,category
+T-001,2026-05-16,Günlük kasa geliri,18500,income,Günlük satış
+T-002,2026-05-17,Günlük kasa geliri,17600,income,Günlük satış
+T-003,2026-05-18,Günlük kasa geliri,19200,income,Günlük satış
+T-004,2026-05-18,Maaş avansı,28500,expense,Maaş
+T-005,2026-05-21,Kira,42000,expense,Kira
+T-006,2026-05-23,Gıda tedarikçisi,26500,expense,Tedarikçi

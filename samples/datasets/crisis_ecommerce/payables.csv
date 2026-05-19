@@ -1,0 +1,4 @@
+id,vendor_name,amount,due_date,category,is_fixed
+P-001,Tedarikçi Alfa,38500,2026-05-18,Tedarikçi,False
+P-002,SGK / Vergi,22500,2026-05-23,Vergi,True
+P-003,Kargo firması,14200,2026-05-26,Kargo,False

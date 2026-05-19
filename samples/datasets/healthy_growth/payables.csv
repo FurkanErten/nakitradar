@@ -1,0 +1,3 @@
+id,vendor_name,amount,due_date,category,is_fixed
+P-001,Ambalaj tedarikçisi,12000,2026-05-22,Ambalaj,False
+P-002,Vergi,18500,2026-05-30,Vergi,True

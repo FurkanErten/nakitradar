@@ -1,0 +1,4 @@
+sku,name,category,unit_cost,sale_price,stock_count,monthly_sales_velocity,min_stock_count,vat_rate,storage_cost_per_unit_day
+RS-001,Günlük Menü,Yemek,92,185,18,520,20,0.1,0.0
+RS-002,Kahve & Tatlı,Kafe,54,145,30,430,30,0.1,0.0
+RS-003,Paket Burger,Paket Servis,118,229,20,280,20,0.1,0.0

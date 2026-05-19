@@ -1,0 +1,7 @@
+id,date,description,amount,type,category
+T-001,2026-05-18,Pazaryeri hakedişi,42000,income,Hakediş
+T-002,2026-05-27,Pazaryeri hakedişi 2,53500,income,Hakediş
+T-003,2026-05-17,Kargo faturası,18500,expense,Kargo
+T-004,2026-05-20,Reklam kart ödemesi,16200,expense,Reklam
+T-005,2026-05-21,Maaş ödemesi,46500,expense,Maaş
+T-006,2026-05-25,Kira,26000,expense,Kira

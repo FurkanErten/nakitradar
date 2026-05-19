@@ -1,0 +1,5 @@
+id,customer_name,amount,due_date,probability,status
+R-001,Müşteri A - Kurumsal Sipariş,22000,2026-05-04,0.75,unpaid
+R-002,Müşteri B - Bayi,18500,2026-05-24,0.9,unpaid
+R-003,Müşteri C - Instagram Toptan,7500,2026-05-10,0.55,unpaid
+R-004,Müşteri D - Kafe Zinciri,14000,2026-05-29,0.8,unpaid

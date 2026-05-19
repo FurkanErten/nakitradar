@@ -1,0 +1,3 @@
+id,customer_name,amount,due_date,probability,status
+R-001,Toplu butik alıcısı,13500,2026-05-07,0.7,unpaid
+R-002,Influencer satış ortaklığı,7200,2026-05-21,0.65,unpaid

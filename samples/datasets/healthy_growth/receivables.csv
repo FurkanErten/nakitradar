@@ -1,0 +1,3 @@
+id,customer_name,amount,due_date,probability,status
+R-001,Kurumsal Abonelik,32000,2026-05-20,0.95,unpaid
+R-002,Bayi Güney,15000,2026-05-14,0.9,unpaid
