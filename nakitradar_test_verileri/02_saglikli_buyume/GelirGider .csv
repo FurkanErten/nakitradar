@@ -1,0 +1,7 @@
+﻿id,date,description,amount,type,category
+T-201,2026-05-16,Pazaryeri hakedişi,46000,income,Satış
+T-202,2026-05-18,Kurumsal ödeme,28000,income,Satış
+T-203,2026-05-20,Kargo faturası,9800,expense,Kargo
+T-204,2026-05-21,Reklam harcaması,6500,expense,Reklam
+T-205,2026-05-24,Pazaryeri hakedişi,52000,income,Satış
+T-206,2026-05-27,Yeni stok alımı,31000,expense,Stok

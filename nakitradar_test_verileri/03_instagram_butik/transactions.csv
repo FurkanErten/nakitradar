@@ -1,0 +1,7 @@
+﻿id,date,description,amount,type,category
+T-301,2026-05-16,Instagram satış,12800,income,Satış
+T-302,2026-05-18,Reklam harcaması,7200,expense,Reklam
+T-303,2026-05-19,Kargo ödemesi,5400,expense,Kargo
+T-304,2026-05-21,Instagram satış tahmini,15000,income,Satış
+T-305,2026-05-23,Fotoğraf çekimi,3500,expense,Pazarlama
+T-306,2026-05-26,Stok alımı,22000,expense,Stok

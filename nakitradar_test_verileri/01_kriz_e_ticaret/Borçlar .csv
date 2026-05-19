@@ -1,0 +1,6 @@
+﻿id,vendor_name,amount,due_date,category,is_fixed
+P-001,Elektronik tedarikçi ödemesi,48000,2026-05-20,Tedarikçi,true
+P-002,Personel maaş ödemesi,42000,2026-05-22,Maaş,true
+P-003,Dükkan kira ödemesi,25000,2026-05-25,Kira,true
+P-004,Kargo firması aylık fatura,16500,2026-05-19,Kargo,true
+P-005,Reklam ajansı,12000,2026-05-27,Reklam,false

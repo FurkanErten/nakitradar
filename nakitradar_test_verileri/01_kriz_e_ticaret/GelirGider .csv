@@ -1,0 +1,8 @@
+﻿id,date,description,amount,type,category
+T-001,2026-05-16,Pazaryeri hakedişi,22000,income,Satış
+T-002,2026-05-17,Instagram satış,9000,income,Satış
+T-003,2026-05-20,Kargo faturası,16500,expense,Kargo
+T-004,2026-05-21,Reklam harcaması,8200,expense,Reklam
+T-005,2026-05-22,Mağaza satış tahmini,12000,income,Satış
+T-006,2026-05-23,Paketleme malzemesi,4200,expense,Operasyon
+T-007,2026-05-26,Pazaryeri hakedişi,34000,income,Satış

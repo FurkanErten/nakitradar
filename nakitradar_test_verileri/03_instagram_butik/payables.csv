@@ -1,0 +1,4 @@
+﻿id,vendor_name,amount,due_date,category,is_fixed
+P-301,Kumaş tedarikçisi,19500,2026-05-20,Tedarikçi,true
+P-302,Atölye işçilik,12000,2026-05-24,Üretim,true
+P-303,Kargo faturası,5400,2026-05-19,Kargo,true

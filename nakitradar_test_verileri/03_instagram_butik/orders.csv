@@ -1,0 +1,9 @@
+﻿order_id,sku,order_date,sale_price,quantity,commission,shipping_cost,packaging_cost,ad_cost,payment_fee,is_returned,return_cost
+O-3001,BK-301,2026-05-01,449,2,0,54,14,42,7,false,0
+O-3002,BK-303,2026-05-02,229,4,0,58,15,36,6,false,0
+O-3003,BK-302,2026-05-04,699,1,0,45,10,55,8,false,0
+O-3004,BK-304,2026-05-05,899,1,0,56,12,88,10,true,70
+O-3005,BK-303,2026-05-07,229,6,0,75,18,48,10,false,0
+O-3006,BK-301,2026-05-09,449,1,0,44,10,30,5,false,0
+O-3007,BK-302,2026-05-11,699,2,0,68,16,72,14,false,0
+O-3008,BK-304,2026-05-13,899,1,0,56,12,88,10,false,0

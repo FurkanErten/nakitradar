@@ -1,0 +1,4 @@
+﻿id,vendor_name,amount,due_date,category,is_fixed
+P-201,Tedarikçi ofis ürünleri,26000,2026-05-23,Tedarikçi,true
+P-202,Personel maaş,32000,2026-05-30,Maaş,true
+P-203,Depo kira,14000,2026-05-28,Kira,true
